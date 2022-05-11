@@ -1,0 +1,483 @@
+﻿++Solution 'FirstApi' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:FirstApi.sln
+++FirstApi
+i:{00000000-0000-0000-0000-000000000000}:FirstApi
+++Connected Services 
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>161
+++Dependencies
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>160
+++Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:analyzers
+++Microsoft.AspNetCore.Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Frameworks
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:frameworks
+++Microsoft.AspNetCore.App
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\microsoft.netcore.app
+++Packages
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:packages
+++Microsoft.AspNet.WebApi.Cors (5.2.8)
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>175
+++Npgsql.EntityFrameworkCore.PostgreSQL (6.0.4)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>174
+++Swashbuckle.AspNetCore (6.2.3)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>173
+++Properties
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\properties\
+++launchSettings.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\properties\launchsettings.json
+++BookData
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bookdata\
+++Bookdata.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bookdata\bookdata.cs
+++Controllers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\controllers\
+++thebookController.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\controllers\thebookcontroller.cs
+++WeatherForecastController.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\controllers\weatherforecastcontroller.cs
+++data
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\data\
+++context.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\data\context.cs
+++Migrations
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\migrations\
+++20220426104604_Books.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\migrations\20220426104604_books.cs
+++contextModelSnapshot.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\migrations\contextmodelsnapshot.cs
+++model
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\model\
+++Book.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\model\book.cs
+++Repository
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\repository\
+++IBooks.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\repository\ibooks.cs
+++appsettings.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\appsettings.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\appsettings.development.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\appsettings.development.json
+++Program.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\program.cs
+++WeatherForecast.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\weatherforecast.cs
+++No service dependencies discovered
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>162
+++20220426104604_Books.Designer.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\migrations\20220426104604_books.designer.cs
+++bin
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\
+++Debug
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\
+++net6.0
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\
+++FirstApi.deps.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\firstapi.deps.json
+++FirstApi.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\firstapi.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\ref\firstapi.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\refint\firstapi.dll
+++FirstApi.exe
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\firstapi.exe
+++FirstApi.pdb
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\firstapi.pdb
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.pdb
+++FirstApi.runtimeconfig.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\firstapi.runtimeconfig.json
+++Humanizer.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\humanizer.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.OpenApi.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\microsoft.openapi.dll
+++Npgsql.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\npgsql.dll
+++Npgsql.EntityFrameworkCore.PostgreSQL.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\npgsql.entityframeworkcore.postgresql.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++obj
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\
+++FirstApi.csproj.nuget.dgspec.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\firstapi.csproj.nuget.dgspec.json
+++FirstApi.csproj.nuget.g.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\firstapi.csproj.nuget.g.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\firstapi.csproj.nuget.g.props
+++FirstApi.csproj.nuget.g.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\firstapi.csproj.nuget.g.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\firstapi.csproj.nuget.g.targets
+++project.assets.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\project.assets.json
+++project.nuget.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\staticwebassets.pack.sentinel
+++ref
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\ref\
+++refint
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\refint\
+++staticwebassets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\apphost.exe
+++FirstApi.AssemblyInfo.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.assemblyinfo.cs
+++FirstApi.AssemblyInfoInputs.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.assemblyinfoinputs.cache
+++FirstApi.assets.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.assets.cache
+++FirstApi.csproj.AssemblyReference.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.csproj.assemblyreference.cache
+++FirstApi.csproj.BuildWithSkipAnalyzers
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.csproj.buildwithskipanalyzers
+++FirstApi.csproj.CopyComplete
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.csproj.copycomplete
+++FirstApi.csproj.CoreCompileInputs.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.csproj.corecompileinputs.cache
+++FirstApi.csproj.FileListAbsolute.txt
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.csproj.filelistabsolute.txt
+++FirstApi.GeneratedMSBuildEditorConfig.editorconfig
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.generatedmsbuildeditorconfig.editorconfig
+++FirstApi.genruntimeconfig.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.genruntimeconfig.cache
+++FirstApi.GlobalUsings.g.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.globalusings.g.cs
+++FirstApi.MvcApplicationPartsAssemblyInfo.cache
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.mvcapplicationpartsassemblyinfo.cache
+++FirstApi.MvcApplicationPartsAssemblyInfo.cs
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\firstapi.mvcapplicationpartsassemblyinfo.cs
+++staticwebassets.build.json
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\obj\debug\net6.0\staticwebassets.build.json
+++Imports
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:>189
+++Sdk.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++Microsoft.Common.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++Microsoft.NuGet.ImportBefore.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\.nuget\packages\swashbuckle.aspnetcore\6.2.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\.nuget\packages\microsoft.entityframeworkcore.design\6.0.4\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++Microsoft.NET.ILLink.Tasks.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++FirstApi.csproj.user
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\c#.net\phils\c# files\asp.netcoreapi\firstapi\firstapi\firstapi.csproj.user
+++Microsoft.NET.props
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\users\philskay\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.Docker.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{e83388b3-254d-4e08-affa-4b888bb45963}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++System.Net.Http.Formatting.dll
+++System.Web.Cors.dll
+++System.Web.Http.Cors.dll
+++Newtonsoft.Json.Bson.dll
+++Newtonsoft.Json.dll
+++System.Web.Http.dll
+++webConfig.cs
